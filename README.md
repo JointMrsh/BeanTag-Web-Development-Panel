@@ -2,6 +2,9 @@
 
 Web Development Credienstials Credienstials:
 
-Username -> bEaNTAG_ADMinSTraTiVE_aCCOUnT
+[HIDDEN]
 
-Password -> lU6p36HDYHdlp72gwUTYa6yt^XA
+# Why is this public?
+So I can use the Github Pages to host.
+
+Don't worry, everything is Obfucscated.
